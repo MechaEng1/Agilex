@@ -1,0 +1,4 @@
+source;share/Agilex_Hunter_SE/local_setup.bash
+source;share/Agilex_Hunter_SE/local_setup.dsv
+source;share/Agilex_Hunter_SE/local_setup.sh
+source;share/Agilex_Hunter_SE/local_setup.zsh
